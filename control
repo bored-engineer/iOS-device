@@ -1,0 +1,9 @@
+Package: com.innoying.device
+Name: Device
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A tool to interface with UIDevice from the command line.
+Maintainer: innoying
+Author: innoying
+Section: System
+Tag: role::hacker
